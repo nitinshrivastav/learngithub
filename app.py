@@ -3,6 +3,6 @@ def getdata():
     return ravinshu
 def calculation(args):
     pass
-def finalresult(args):
-    pass
+def finalresult(final):
+    return final/2
 finalresult(calculation(getdata()))
