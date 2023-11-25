@@ -1,10 +1,10 @@
 def getdata(args):
     pass
 def calculation(data):
-    s=0
+    sum=0
     for i in data:
-        s=s+i
-    return s
+        sum=s+i
+    return sum
 
 def finalresult(args):
     pass
