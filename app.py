@@ -2,8 +2,8 @@ def getdata(args):
     pass
 def calculation(data):
     sum=0
-    for i in data:
-        sum=sum+i
+    for j in data:
+        sum=sum+j
     return sum
 
 def finalresult(args):
