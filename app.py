@@ -3,7 +3,7 @@ def getdata(args):
 def calculation(data):
     sum=0
     for i in data:
-        sum=s+i
+        sum=sum+i
     return sum
 
 def finalresult(args):
